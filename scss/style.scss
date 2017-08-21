@@ -1,0 +1,13 @@
+@import 'config';
+@import 'reset';
+@import 'editor';
+
+header {
+  background: rgba(255,255,255,.8);
+  height: 2em;
+  padding: 0 1em;
+  line-height: 2;
+}
+body {
+  background: url(../imgs/bg.png);
+}
